@@ -99,7 +99,7 @@ public class sudoku {
                                 return true;
                             }
                             else{
-                                board[row][column] = 0;                         //Backtracking
+                                board[row][column] = 0;                         //Backtracking.
                             }
                         }   
                     }
