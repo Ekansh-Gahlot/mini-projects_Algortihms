@@ -1,4 +1,6 @@
-# Sudoku_Solver using BackTracking
+# PROJECTS BASED ON FAMOUS ALGORITHMS.
+
+# SUDOKU SOLVER
 The following code uses backtracking to solve Sudoku problem.
 The algorithm deployed is as follows - 
 1) We first make sure that the number is valid placement satifying the conditions - 
